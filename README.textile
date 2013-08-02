@@ -6,8 +6,6 @@ I really don't know what that means.
 
 Created to be included in a talk at "MathFest-2013":https://github.com/b-stone/presentations/tree/master/MathFest-2013
 
-Just a terrible conference name, but "their logo":http://www.maa.org/sites/default/files/pdf/mathfest/2013mathfest_program.pdf is kind of cool... I guess.
-
 "Web-based version":http://vallandingham.me/vis-ideal/ (sourced from this repo)
 
 Built in a quick, terrible way using D3.
