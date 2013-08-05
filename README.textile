@@ -2,7 +2,7 @@ h1. vis-ideal
 
 A teaching tool to help visualize monomial "ideals":http://en.wikipedia.org/wiki/Ideal_(ring_theory) in two variables.
 
-Created to be included in a talk at "MathFest-2013":https://github.com/b-stone/presentations/tree/master/MathFest-2013
+Created to be included in a talk at "MathFest-2013":https://github.com/b-stone/MathFest-2013
 
 "Web-based version":http://vallandingham.me/vis-ideal/ (sourced from this repo)
 
